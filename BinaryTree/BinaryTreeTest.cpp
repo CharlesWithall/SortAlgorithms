@@ -3,7 +3,7 @@
 #include "../BinaryTreeLib/BinaryTree.h"
 #include "../BinaryTreeLib/Node.h"
 
-#include "../BinaryTree/SortAlgorithms/SortAlgorithms.h"
+#include "../SortAlgorithms/SortAlgorithms.h"
 
 #include <algorithm>
 #include <iostream>
