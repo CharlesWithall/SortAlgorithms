@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTreeTest", "BinaryTree\BinaryTree.vcxproj", "{58826204-6AA8-4A77-A720-47CF951DA7F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SortAlgorithms", "SortAlgorithms\SortAlgorithms.vcxproj", "{24BEE365-D70E-40CA-8DF1-EA3A4510879D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTreeLib", "BinaryTreeLib\BinaryTreeLib.vcxproj", "{4830AD6F-2612-40C8-8FC9-7FD3893223B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Debug|x64.ActiveCfg = Debug|x64
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Debug|x64.Build.0 = Debug|x64
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Debug|x86.Build.0 = Debug|Win32
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Release|x64.ActiveCfg = Release|x64
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Release|x64.Build.0 = Release|x64
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Release|x86.ActiveCfg = Release|Win32
+		{58826204-6AA8-4A77-A720-47CF951DA7F1}.Release|x86.Build.0 = Release|Win32
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Debug|x64.ActiveCfg = Debug|x64
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Debug|x64.Build.0 = Debug|x64
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Debug|x86.ActiveCfg = Debug|Win32
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Debug|x86.Build.0 = Debug|Win32
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Release|x64.ActiveCfg = Release|x64
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Release|x64.Build.0 = Release|x64
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Release|x86.ActiveCfg = Release|Win32
+		{24BEE365-D70E-40CA-8DF1-EA3A4510879D}.Release|x86.Build.0 = Release|Win32
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Debug|x64.ActiveCfg = Debug|x64
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Debug|x64.Build.0 = Debug|x64
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Debug|x86.Build.0 = Debug|Win32
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Release|x64.ActiveCfg = Release|x64
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Release|x64.Build.0 = Release|x64
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Release|x86.ActiveCfg = Release|Win32
+		{4830AD6F-2612-40C8-8FC9-7FD3893223B0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
